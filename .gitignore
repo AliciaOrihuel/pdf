@@ -12,12 +12,3 @@ Thumbs.db
 *.swo
 .vscode/
 .idea/
-
-# Python
-__pycache__/
-*.py[cod]
-*.pyc
-
-# Build artifacts
-build/
-dist/

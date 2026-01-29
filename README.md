@@ -10,6 +10,8 @@ This repository is for storing and managing PDF documents.
 
 ### Method 1: Using Git Command Line
 
+**Note**: You need write access to this repository, or you can fork it and submit a pull request.
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/AliciaOrihuel/pdf.git
